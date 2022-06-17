@@ -1,0 +1,14 @@
+[
+  {
+    "package": "adaHuber",
+    "oncran": true
+  },
+  {
+    "package": "conquer",
+    "oncran": true
+  },
+  {
+    "package": "FarmTest",
+    "oncran": true
+  }
+]
