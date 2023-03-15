@@ -8,13 +8,13 @@
 	url = https://github.com/xiaooupan/adahuber
 	shallow = true
 	registered = true
-[submodule "conquer"]
-	path = conquer
-	url = https://github.com/xiaooupan/conquer
-	shallow = true
-	registered = true
 [submodule "FarmTest"]
 	path = FarmTest
 	url = https://github.com/xiaooupan/farmtest
+	shallow = true
+	registered = true
+[submodule "conquer"]
+	path = conquer
+	url = https://github.com/xiaooupan/conquer
 	shallow = true
 	registered = true
