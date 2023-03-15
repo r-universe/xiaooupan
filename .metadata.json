@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "FarmTest",
+    "package": "conquer",
     "oncran": true
   },
   {
-    "package": "conquer",
+    "package": "FarmTest",
     "oncran": true
   }
 ]
