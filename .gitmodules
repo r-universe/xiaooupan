@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FarmTest"]
+	path = FarmTest
+	url = https://github.com/xiaooupan/farmtest
 [submodule "adaHuber"]
 	path = adaHuber
 	url = https://github.com/xiaooupan/adahuber
 [submodule "conquer"]
 	path = conquer
 	url = https://github.com/xiaooupan/conquer
-[submodule "FarmTest"]
-	path = FarmTest
-	url = https://github.com/xiaooupan/farmtest
